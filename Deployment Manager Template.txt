@@ -1,4 +1,4 @@
-Answer For GOOGLE qwiklabs "Configure a Firewall and a Startup Script with Deployment Manager"
+ANSWER For GOOGLE qwiklabs "Configure a Firewall and a Startup Script with Deployment Manager"
 
 resources:
 - type: compute.v1.instance
