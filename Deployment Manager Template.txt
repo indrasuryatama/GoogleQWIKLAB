@@ -1,3 +1,5 @@
+Answer For GOOGLE qwiklabs "Configure a Firewall and a Startup Script with Deployment Manager"
+
 resources:
 - type: compute.v1.instance
   name: vm-test
@@ -44,5 +46,3 @@ resources:
 
 gcloud deployment-manager deployments create deployment-templates  --config=qwiklabs.yaml
 
-
-https://blusky10.tistory.com/437
